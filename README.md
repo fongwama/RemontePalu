@@ -2,7 +2,7 @@
 
 ---
 
-RemotePalu est une application de gestion des cas de paludisme dans les centres de santé. L’objectif est de centraliser les cas cliniques de paludisme
+RemontePalu est une application de gestion des cas de paludisme dans les centres de santé. L’objectif est de centraliser les cas cliniques de paludisme
 
 Les fonctionalités de l'application seront :
 
